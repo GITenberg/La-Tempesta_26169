@@ -1,0 +1,44 @@
+_repo: La-Tempesta_26169
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Angeli, Diego
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31843'
+    url: http://www.gutenberg.org/2009/agents/31843
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26169'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spirits -- Drama'
+- !lcc 'PR'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Shipwreck victims -- Drama'
+- !lcsh 'Tragicomedy'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Political refugees -- Drama'
+- !lcsh 'Islands -- Drama'
+title: La Tempesta
+url: http://www.gutenberg.org/ebooks/26169
